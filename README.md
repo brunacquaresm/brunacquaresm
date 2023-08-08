@@ -1,4 +1,4 @@
-### Hello! I'm Bruna Quaresma 👋
+### Hello! I'm Brunä Gomes 👋
 
 - 🔭 Atualmente estou trabalhando num projeto freelance de vidraçaria.
 - 🌱 Estudando Javascript e Pacote Office...
