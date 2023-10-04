@@ -6,4 +6,3 @@
 - ⚡ Fato engraçado: As corujas têm pernas longas, apenas ficam escondidas.
 
 
-![snake gif](https://github.com/brunacquaresm/brunacquaresm/blob/output/github-contribution-grid-snake.svg)
